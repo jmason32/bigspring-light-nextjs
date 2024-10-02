@@ -10,7 +10,7 @@ const HomeBanner = ({ banner }) => {
           <div className="mx-auto lg:col-10">
             <h1 className="font-primary font-bold">{banner.title}</h1>
             <p className="mt-4">{markdownify(banner.content)}</p>
-            {banner.button.enable && (
+            {  (
               <Link
                 className="btn btn-primary mt-4"
                 href={banner.button.link}

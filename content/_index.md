@@ -1,34 +1,43 @@
 ---
 banner:
   title: Comprehensive Financial & Business Solutions Under One Roof
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus.
+  content: Your trusted partner in financial success, real estate, and business formation.
   image: /images/banner-art.svg
   button:
-    label: "Contact Us"
+    label: "Get Started Today"
     link: "/contact"
 
 # feature
 feature: 
-  title: Something You Need To Know
+  title: Our Services
   features:
-  - name: "Clean Code"
+  - name: "Bookkeeping"
     icon: "/images/code.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Object Oriented"
+    content: "Keep track of your finances with our professional bookkeeping services."
+  - name: "Credit Repair"
     icon: "/images/oop.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "24h Service"
+    content: "Improve your credit score and secure your financial future."
+  - name: "Tax Preparation"
     icon: "/images/user-clock.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Value for Money"
+    content: "Hassle-free, accurate tax filing for individuals and businesses."
+  - name: "Real Estate Sales"
     icon: "/images/love.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Faster Response"
+    content: "Buy or sell your property with our expert real estate services."
+  - name: "Mortgage Financing"
     icon: "/images/speedometer.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Cloud Support"
+    content: "Simplified mortgage solutions tailored to your needs."
+  - name: "Business Formation"
     icon: "/images/cloud.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "We’ll help you establish your business entity, from LLCs to corporations."
+  - name: "Tax Planning:"
+    icon: "/images/speedometer.svg"
+    content: "Optimize your taxes with strategic planning year-round."
+  - name: "Payroll Services"
+    icon: "/images/cloud.svg"
+    content: "Accurate, compliant, and efficient payroll management for businesses."
+  - name: "Remote Notary"
+    icon: "/images/cloud.svg"
+    content: "Secure, fast, and legal notary services from anywhere."
 
 # services
 services:
