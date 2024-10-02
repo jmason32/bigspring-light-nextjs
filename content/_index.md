@@ -29,7 +29,7 @@ feature:
   - name: "Business Formation"
     icon: "/images/cloud.svg"
     content: "We’ll help you establish your business entity, from LLCs to corporations."
-  - name: "Tax Planning:"
+  - name: "Tax Planning"
     icon: "/images/speedometer.svg"
     content: "Optimize your taxes with strategic planning year-round."
   - name: "Payroll Services"
